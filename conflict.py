@@ -1,5 +1,5 @@
-def suma(a,b):
+def suma(x, y):
     """
-    Suma dos números.
+    Returns the sum of x and y.
     """
-    return a + b
+    return x + y
