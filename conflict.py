@@ -22,5 +22,12 @@ def multiplicacion(x, y):
     """
     return x * y
 
+def division(x, y):
+    """
+    Returns the quotient of x and y.
+    """
+    if y == 0:
+        raise ValueError("Cannot divide by zero")
+    return x / y
 # ADD COMMENT FROM feature/test2 branch
 
