@@ -13,3 +13,9 @@ def resta(x, y):
     Devuelve la resta de x e y.
     """
     return x - y
+
+def multiplicacion(x, y):
+    """
+    Returns the product of x and y.
+    """
+    return x * y
