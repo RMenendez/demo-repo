@@ -3,9 +3,9 @@
 
 
 
-def suma(x, y):
+def adition(x, y):
     """
-    Returns the sum of x and y.
+    Returns the adition of x and y. For feature/1732
     """
     return x + y
 
