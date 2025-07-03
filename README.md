@@ -12,3 +12,5 @@ Watch tutorial on Youtube
 1. Open index.html in your browser
 
 ## Added in local in feature/test2
+
+## Added in remote in main
