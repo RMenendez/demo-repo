@@ -2,12 +2,12 @@
 #
 
 
-
-def adition(a, b):
+# Change name adition to suma from main branch
+def suma(a, b):
     """
     Returns the adition of a and b. 
     """
-    return a + BaseException
+    return a + b
 
 def resta(x, y):
     """
