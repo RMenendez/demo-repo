@@ -2,8 +2,8 @@
 #
 
 
-
-def adition(x, y):
+# Change name adition to suma from main branch
+def suma(x, y):
     """
     Returns the adition of x and y. For feature/1732
     """
