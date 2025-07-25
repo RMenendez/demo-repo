@@ -3,11 +3,11 @@
 
 
 # Change name adition to suma from main branch
-def suma(x, y):
+def suma(a, b):
     """
-    Returns the adition of x and y. For feature/1732
+    Returns the adition of a and b. 
     """
-    return x + y
+    return a + b
 
 def resta(x, y):
     """
