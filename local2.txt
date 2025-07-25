@@ -1,3 +1,5 @@
 Local2 file
 
 # Add line at conf/test1 branch
+
+# Line added from conf/test5 branch - should not be conflict in this case
