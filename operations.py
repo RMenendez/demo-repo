@@ -18,7 +18,8 @@ def substraction(a, b):
     """
     return a - b
 
-def multiplicacion(x, y):
+# Change multiplicacion to producto from main branch
+def producto(x, y):
     """
     Returns the product of x and y.
     """
