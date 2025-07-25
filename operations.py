@@ -19,7 +19,8 @@ def substraction(a, b):
     return a - b
 
 # Change from x,y to a,b from conf/test4 branch
-def multiplicacion(a, b):
+# Change multiplicacion to producto from main branch
+def producto(a, b):
     """
     Returns the product of a and b.
     """
