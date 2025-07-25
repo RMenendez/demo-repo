@@ -9,13 +9,14 @@ def suma(a, b):
     """
     return a + b
 
+# Change x,y to a,b from conf/test3 branch
 # Change resta to substraction from main branch
-def substraction(x, y):
+def substraction(a, b):
     """
-    Returns the difference of x and y.
-    Devuelve la resta de x e y.
+    Returns the difference of a and b.
+    Devuelve la resta de a y b.
     """
-    return x - y
+    return a - b
 
 def multiplicacion(x, y):
     """
