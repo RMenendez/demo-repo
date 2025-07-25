@@ -3,11 +3,11 @@
 
 
 
-def adition(x, y):
+def adition(a, b):
     """
-    Returns the adition of x and y. For feature/1732
+    Returns the adition of a and b. 
     """
-    return x + y
+    return a + BaseException
 
 def resta(x, y):
     """
