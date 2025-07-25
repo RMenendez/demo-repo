@@ -10,7 +10,8 @@ def suma(a, b):
     return a + b
 
 # Change x,y to a,b from conf/test3 branch
-def resta(a, b):
+# Change resta to substraction from main branch
+def substraction(a, b):
     """
     Returns the difference of a and b.
     Devuelve la resta de a y b.
