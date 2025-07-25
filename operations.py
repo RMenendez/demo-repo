@@ -9,7 +9,8 @@ def suma(a, b):
     """
     return a + b
 
-def resta(x, y):
+# Change resta to substraction from main branch
+def substraction(x, y):
     """
     Returns the difference of x and y.
     Devuelve la resta de x e y.

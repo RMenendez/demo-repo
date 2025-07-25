@@ -1,1 +1,3 @@
-version == '0.1.0'
+
+# Change version to 0.1.1 from main branch
+version == '0.1.1'
